@@ -1,33 +1,50 @@
-<h1 align="center">Jhonny Emanoel</h1>
+<h2>Olá! Sou Jhonny Emanoel 👋</h2>
 
-<p align="center">
-  🎮 Desenvolvedor | 💻 Tecnologia | 📍 Recife - PE
-</p>
+- 🎮 Desenvolvedor
+- 💻 Apaixonado por tecnologia
+- 📍 Recife - PE
 
----
+<hr/>
 
-## 🚀 Sobre
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-Técnico em Programação de Jogos Digitais com experiência em projetos práticos em Unity e desenvolvimento web.  
-Buscando minha primeira oportunidade profissional para crescer na área de tecnologia e contribuir com soluções eficientes.
+### 🚀 Sobre
 
----
+<sub>
+Técnico em Programação de Jogos Digitais, com experiência em projetos práticos em Unity e desenvolvimento web.
+Busco minha primeira oportunidade profissional para crescer na área de tecnologia e contribuir com soluções eficientes.
+</sub>
 
-## 🛠️ Stack
+    </td>
+
+    <td width="42%" valign="top">
+
+### 🛠️ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,cs,python,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,python,html,css,js,git&perline=7" />
 </p>
 
----
+<sub>Unity • C# • Python • HTML • CSS • JavaScript • Git</sub>
 
-## 📫 Contato
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="www.linkedin.com/in/jhonny-emanoel-santana-1b853829b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<hr/>
+
+### 📫 Contato
+
+<p align="left">
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/jhonnynsf_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="SEU_LINK_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
