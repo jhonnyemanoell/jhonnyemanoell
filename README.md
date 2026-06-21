@@ -37,7 +37,7 @@
   <a href="mailto:jhonnyemanoelyt2018@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/jhonny-emanoel">
+  <a href="https://www.linkedin.com/in/jhonny-emanoel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jhonnynsf_/">
