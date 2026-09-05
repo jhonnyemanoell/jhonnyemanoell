@@ -61,8 +61,8 @@ Hoje meu foco está em construir sistemas sólidos e explorar o universo de **De
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonnysethub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnysethub&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-seven-neon-89.vercel.app/api?username=jhonnysethub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-seven-neon-89.vercel.app/api/top-langs/?username=jhonnysethub&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
 </p>
 
 <p align="center">
